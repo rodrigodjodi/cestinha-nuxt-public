@@ -1,7 +1,7 @@
 {
-  "name": "cestinha-nuxt",
+  "name": "elite-jump",
   "version": "1.0.0",
-  "description": "Organizador de peladas de basquete.",
+  "description": "",
   "author": "rodrigodjodi",
   "private": true,
   "scripts": {
@@ -11,13 +11,14 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.0.0",
-    "@nuxtjs/pwa": "^3.0.0-0"
+    "@nuxtjs/pwa": "3.0.0-beta.20",
+    "nuxt": "2.13.0"
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.0.0",
     "eslint-config-prettier": "^4.1.0",
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.16.4"
-  }
+  },
+  "keywords": []
 }
